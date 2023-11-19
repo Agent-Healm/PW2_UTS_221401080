@@ -1,0 +1,17 @@
+
+.main {
+    font-size: 30px;
+    box-sizing: border-box;
+    height : 350px;
+    width  : 350px;
+    text-align: center;
+    
+    margin : 60px 10px 10px 300px;
+}
+.tile {
+    height : 100px;
+    width  : 100px;
+    font-size: 60px;
+    border-width: 1px;
+}
+
